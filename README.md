@@ -11,7 +11,6 @@
 
 # Code
 
- <!--
 
           ## Breaking down <a> attributes:
           
@@ -38,6 +37,6 @@
           3.) alt="" | Since the text at the end of the snippet, "..>[Button Text]</a><br>", explains what the button is, we use "alt=""" to nullify the icon annoucement from the accessibility tree. 
           This can improve the experience for assistive technology users by hiding what is essentially duplicated
 
-          -->
+
 
           Build your own by forking Neyroz.
